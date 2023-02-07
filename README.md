@@ -1,4 +1,4 @@
-# Cloud-computing-project
+# Cloud-computing-project cowork with XiuguangHuang
 # Mini Project: Weather report web application
 This is a cloud computing coursework.
 
